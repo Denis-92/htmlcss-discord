@@ -38,8 +38,9 @@ body {
 .call-to-action {
     background-color: white;
     height: 100px;
-    margin: 0 400px;
     text-align: center;
+    max-width: 1000px;
+    margin: 0 auto;
 }
 
 .main {
@@ -52,6 +53,7 @@ body {
     text-align: center;
     height: 300px;
     margin: 50px 400px;
+    max-width: 300px;
     background-color: white;
 }
 .text {
